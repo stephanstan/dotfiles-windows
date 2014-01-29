@@ -13,6 +13,7 @@ set PATH=%PATH%;%ChocolateyInstall%\bin
 :inst
 
 call cinst vim
+call cinst sudo
 call cinst git
 set PATH=%PATH%;C:\Program Files (x86)\Git\cmd\
 
