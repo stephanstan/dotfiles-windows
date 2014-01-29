@@ -1,9 +1,0 @@
-.git
-.DS_Store
-.vagrant.d
-sync.bat
-excludes.txt
-README.md
-LICENSE
-~\
-.swp
