@@ -6,7 +6,7 @@ For Unix I prefer my <https://github.com/StefanScherer/dotfiles>.
 
 ## Installation
 ```
-git clone https://github.com/StefanScherer/dotfiles-windows ; cd dotfiles-windows ; .\sync.ps1
+git clone https://github.com/stephanstan/dotfiles-windows ; cd dotfiles-windows ; .\sync.ps1
 ```
 
 To update later on, just run the sync again.
